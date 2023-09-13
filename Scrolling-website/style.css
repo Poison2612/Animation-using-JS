@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#page1{
+    height: 100%;
+    width: 100%;
+}
+
+nav{
+    height: 80px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin: auto 50px;
+    border-bottom: 1px solid #dadada;
+    padding-bottom: 10px;
+    margin-bottom: 3%;
+    
+}
+
+nav h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: -18px;
+}
+nav h1 span{
+    font-size: 55px;
+    color: #03d1a3;
+
+}
+.img-circle{
+    display: inline;
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    object-fit: cover;
+    object-position: center;
+    border: 4px solid #000;
+    margin-left: -40px;  
+}
+.img-circle:nth-child(1){
+    margin-left: 0;
+}
+#nav-part-2 ,#nav-part-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 40px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+h3{
+    font-weight: 300;
+}
+#container-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    text-transform: uppercase;
+}
+#cont-1-left{
+    height: 50vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#cont-1-right{
+    height: 50vh;
+    width: 40%;
+    background-image: url("https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80");
+    background-position: cover;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px 50px;
+    border-radius: 20px;
+}
+#cont-1-left-top h1{
+    font-size: 90px;
+    line-height: 1;
+    font-weight: 400;
+}
+#cont-1-left-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px #fff solid;
+    font-size: 13px;
+    padding-top: 10px;
+}
+#cont-1-left-bottom h3{
+    width: 30%;
+    font-weight: 300;
+}
+
+#cont-1-right h4{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    width: 2%;
+}
+
+#take-input{
+    height: 60px;
+    width: 90%;
+    position: relative;
+}
+#take-input input{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    border: 1.5px solid #000;
+    border-radius: 50px;
+    padding-left: 20px;
+    position: absolute;
+    
+
+}
+input::placeholder{
+    color: #000;
+    font-size: 16px;
+}
+#take-input #btn-circle{
+    position: absolute;
+    background-color: #000;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    right: 10px;
+    top: 10px;
+}
+#btn-circle i{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+}
+
+
+
+
