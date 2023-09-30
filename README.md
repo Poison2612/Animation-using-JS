@@ -4,6 +4,45 @@
 
 This research delves into the critical realm of working capital management, specifically focusing on two prominent companies, Hindustan Unilever Limited (HUL) and Indian Tobacco Company (ITC). The objective is to conduct a comprehensive analysis of their working capital dynamics and its impact on corporate performance.
 
+# Working Capital Explained
+
+Working capital, in essence, denotes the capital necessary for covering day-to-day expenses or short-term asset financing. It encompasses the investment a company makes in short-term assets like cash and marketable securities. Net current assets or working capital, calculated by subtracting current liabilities from current assets, is crucial for measuring operational and financial efficiency. Maintaining an adequate amount of cash and lines of credit is essential for a company's continuous business operations.
+
+Symbolically, it can be expressed as:
+\[ \text{Working capital} = \text{current assets} - \text{current liabilities} \]
+
+## Current Assets:
+These are assets convertible into cash within one year or less, including cash, bank accounts, debtors, bill receivables, prepaid expenses, and outstanding incomes.
+
+## Current Liabilities:
+Liabilities payable within a year or less, such as creditors, outstanding bills, bank overdrafts, bills payable, short-term loans, outstanding expenses, and advances.
+
+## Types of Working Capital
+
+1. **Gross Working Capital:**
+   The total investment in current assets.
+   \[ \text{Gross Working Capital} = \text{Total Current Assets} \]
+
+2. **Net Working Capital:**
+   The difference between current assets and current liabilities, with positive or negative results based on the comparison.
+   \[ \text{Net Working Capital} = \text{Current Assets} - \text{Current Liabilities} \]
+
+3. **Fixed Working Capital:**
+   The minimum amount required for ongoing business activities.
+
+4. **Temporary Working Capital:**
+   Additional working capital needed for situations requiring more than the permanent working capital.
+
+## Company Profiles
+
+### Hindustan Unilever Limited (HUL)
+
+HUL, India's largest FMCG company, has a rich history of over 80 years, impacting the lives of two out of three Indians. With a diverse portfolio of over 35 brands, it operates in categories like soaps, detergents, shampoos, and packaged foods. HUL, with an annual turnover of INR 27,408 crores, is a subsidiary of Unilever.
+
+### Indian Tobacco Company (ITC)
+
+ITC, a leading private sector company in India, boasts a market capitalization of nearly US $18 billion and a turnover exceeding US $4.75 billion. Known for its diversification into non-tobacco FMCG segments, ITC employs over 21,000 people at 60 locations. The company aims to enhance wealth-generating capabilities and meet societal expectations with its vision of "Enduring Value. For the nation. For the Shareholder."
+
 # Literature Review
 
 ## International Review
