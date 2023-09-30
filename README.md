@@ -4,6 +4,34 @@
 
 This research delves into the critical realm of working capital management, specifically focusing on two prominent companies, Hindustan Unilever Limited (HUL) and Indian Tobacco Company (ITC). The objective is to conduct a comprehensive analysis of their working capital dynamics and its impact on corporate performance.
 
+# Literature Review
+
+## International Review
+
+| S.No | Author                 | Year | Topic                                                     | Objective                                                           | Methodology                                                                   | Findings                                                                         |
+|------|------------------------|------|-----------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 1    | Jaroslav Mazanec       | 2022 | The Impact of Working Capital Management on Corporate Performance in the Visegrad Group | Identify statistically significant variables from working capital management, focusing on corporate performance in the Visegrad Group countries | Descriptive statistics, correlation analysis, multiple linear regression       | Extends scientific literature on factors improving working capital management and corporate profitability in small and medium-sized companies in Central Europe. |
+| 2    | Fekadu Agmas Wassie    | 2021 | Working Capital Management and Its Impact on Firms’ Performance: An Empirical Analysis on Ethiopian Exporters | Investigate the impact of working capital management on the export firm’s performance in Ethiopia | Sample of 164 exporters, primary and secondary data collection methods         | Working capital management has a statistically significant and positive correlation with the performance of exporting firms in Ethiopia.                 |
+| 3    | Juan Penga, Zhili Zhouab | 2020 | Working Capital Optimization in a Supply Chain Perspective | Find the optimal deployment of working capital in a supply chain perspective | Consideration of a supply chain with one supplier and one retailer facing uncertain demand | Equilibrium solutions show that payment period optimization depends on the relative discount rates of the retailer and supplier.                  |
+| 4    | G.A.Delsingab, M.R.H.M andjesac, P.J.C.Spreijad, E.M.M.Wina | 2019 | An Optimization Approach to Adaptive Multi-Dimensional Capital Management | -                                                                      | -                                                                             | -                                                                                |
+| 5    | Sonia Banos-Caballero, Pedro J García-Teruel, Pedro Martinez-Solano | 2019 | Net Operating Working Capital and Firm Value: A Cross-Country Analysis | Examine the relationship between net operating working capital (NWC) and firm value | Use the valuation model proposed by Fama and French (1998)                    | Shareholders value NWC more in countries with strong enforcement of investor rights and greater financial and economic development.          |
+| 6    | Farrah Wahied, Kasira Noredi, Azhar Mohamad, Othman Chin | 2016 | Working Capital Management Efficiency: A Study on the Small Medium Enterprise in Malaysia | Analyze the efficiency of working capital management in selected small medium enterprise companies in Malaysia | Secondary data from Suruhanjaya Syarikat Malaysia, database of 24 companies | Selected small medium enterprise companies were less efficient in managing their working capital during the study period.                   |
+
+## National Review
+
+| S.No | Author                                              | Year | Topic                                                                                     | Objective                                                                                                                       | Methodology                                                  | Findings                                                                                                   |
+|------|-----------------------------------------------------|------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 1    | Najib H.S. Farhan, Faozi Ali Belhaj, Waleed M. Al-ahdal & Faozi A. Almaqtari | 2021 | An Analysis of Working Capital Management in India: An Urgent Need to Refocus | Evaluate the impact of working capital components on the financial performance of Indian pharmaceutical companies | Panel data of 82 pharmaceutical companies, Generalized Method of Moment (GMM) model | Significant differences in managing working capital among small, medium, and large firms. Collection period, payable period, and inventory holding period positively impact financial performance. |
+| 2    | Amer Morshed                                         | 2020 | Role of Working Capital Management in Profitability Considering the Connection Between Accounting and Finance | Explain the relationship between accounting and finance by measuring the effect of rational working capital management on profitability | Semi-structured interviews with sixteen financial managers   | Relationship between accounting and finance is complementary, supporting critical skills and information in project evaluation, managing funding resources, and working capital management. |
+| 3    | Gaurav Singh Chauhan                                | 2019 | Are Working Capital Decisions Truly Short-Term in Nature?                                   | Investigate the extent of short-term flexibility in firms' working capital management decisions | Primary methods for ancillary details collection                  | Systematic and persistent differences in working capital allocations across and within industries. Industries and firms with higher or lower working capital allocations remain so for a sustained period. |
+| 4    | D. Muthusamy and M. Sathish Kumar                   | 2018 | Working Capital Management in Ancillary’s of BHEL                                         | Analyze the efficiency of inventories and its components and receivables in the Ancillary Unit | Primary methods for ancillary details, annual reports as secondary sources | Efficient utilization of assets, inefficiency in using working capital.                                       |
+| 5    | Pinku Paul                                           | 2018 | Analysis of the Effect of Working Capital Management on Profitability of the Firm: Evidence from Indian Steel Industry | Identify the effect of working capital management on firm profitability in the steel industry | Regression model, data collected from Centre for Monitoring Indian Economy (CMIE) | Relationship between inventory turnover ratio, current ratio, and profitability of the steel industry.             |
+| 6    | Rimsha Khalid                                        | 2018 | Working Capital Management and Profitability                                              | Detect the impact of working capital management on profitability of electrical equipment sector of KSE listed companies in Pakistan | -                                                            | -                                                                                                          |
+| 7    | Tehreem Saif                                         | 2017 | Working Capital Management and Profitability                                             | Examine the significant relationship between current ratio and firm profitability, evaluate the significant relationship between debt to equity ratio and profitability of the firm | Regression model with different assumption tests                 | Impact of working capital management on profitability of electrical equipment Sector of KSE listed companies in Pakistan. |
+| 8    | M. Eswarareddy                                       | 2016 | An Empirical Study on Working Capital Management and Profitability                        | Provide empirical evidence about the effects of working capital management on profitability performance of CNX Automobile companies listed on National Stock Exchange of India | Empirical framework, data collected from financial reports      | Negative relationship between accounts receivables and corporate profitability, positive relationship between accounts payable and profitability. Managers can create value by reducing days for accounts receivables. |
+
+
+
 ## Research Gap
 
 Upon reviewing existing literature, a notable gap emerged. While numerous studies explore working capital, there is a distinct absence of research specifically focusing on HUL and ITC for the selected period. In response, this study titled "A Study on Working Capital Analysis of Hindustan Unilever Limited (HUL) and Indian Tobacco Company (ITC)" has been initiated.
@@ -36,62 +64,22 @@ Working capital serves as the lifeblood of any business organization. Smooth and
 
 ## References
 
-1. **Jaroslav Mazanec (Feb 2022):**
-   - Title: *The Impact of Working Capital Management on Corporate Performance in Small–Medium Enterprises in the Visegrad Group*
-   - Source: [Link to the paper](https://www.researchgate.net/deref/https%3A%2F%2Fdoi.org%2F10.3390%2Fmath10060951)
-   - Published in Mathematics 2022, 10, 951.
+| **S.NO.** | **AUTHOR & DATE**                                   | **TITLE**                                                                  | **SOURCE**                                                                                                                         | **PUBLICATION DETAILS**                                     |
+|-----------|------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 1         | Jaroslav Mazanec (Feb 2022)                         | The Impact of Working Capital Management on Corporate Performance...    | [Link to the paper](https://www.researchgate.net/deref/https%3A%2F%2Fdoi.org%2F10.3390%2Fmath10060951)                            | Mathematics 2022, 10, 951                                   |
+| 2         | Fekadu Agmas Wassie (Mar 2021)                      | Working Capital Management and Its Impact on Firms’ Performance...      | [Link to the paper](https://doi.org/10.1155/2021/6681572)                                                                         | Open Access Volume 2021                                     |
+| 3         | Sonia Baños-Caballero, Pedro J García-Teruel, Pedro Martínez-Solano (Mar 2019) | Net Operating Working Capital and Firm Value: A Cross-Country Analysis | [Link to the paper](https://doi.org/10.1177/2340944420941464)                                                                    | Vol 23, Issue 3, 2020                                      |
+| 4         | Najib H.S. Farhan, Fozi Ali Belhaj, Waleed M. Al-ahdal, Faozi A. Almaqtari (Apr 2021) | An Analysis of Working Capital Management in India... | [Link to the paper](https://doi.org/10.1080/23311975.2021.1924930)                                                                 | Article ID: 1924930, Published online: 06 Jun 2021          |
+| 5         | Amer Morshed (Dec 2020)                             | Role of Working Capital Management in Profitability...                 | [Link to the paper](https://www.emerald.com/insight/2443-4175.htm)                                                                | DOI: 10.1108/ajar-04-2020-0023                               |
+| 6         | Juan Peng and Zhili Zhou (Jan 2020)                 | Working Capital Optimization in a Supply Chain Perspective              | European Journal of Operational Research, 2019, vol. 277, issue 3, 846-856                                                    |
+| 7         | Gaurav Singh Chauhan (June 2019)                    | Are Working Capital Decisions Truly Short-Term in Nature?               | [Link to the paper](https://doi.org/10.1016/j.jbusres.2019.02.032)                                                                | Journal of Business Research, Volume 99, June 2019, Pages 238-253 |
+| 8         | Muthusamy, D., & Sathish Kumar, M. (2018)           | Working Capital Management in Ancillary’s of BHEL, Tiruchirappalli...   | Asian Journal of Managerial Science, 7(3), 14–17                                                                               | DOI: 10.51983/ajms-2018.7.3.1349                             |
+| 9         | Pinku Paul (Sep 2018)                               | Analysis of the Effect of Working Capital Management on Profitability... | [Link to the paper](https://doi.org/10.1177/2319510X18812142)                                                                  | Vol 14, Issue 1-2, 2018                                     |
+| 10        | Rimsha Khalid, Tehreem Saif, Abdul Rehman Gondal, and Hamza Sarfraz (June 2018) | Working Capital Management and Profitability                           | Mediterranean Journal of Basic and Applied Sciences (MJBAS) Volume 2, Issue 2, Pages 117-125, April-June 2018                 |
+| 11        | Tehreem Saif, Abdul Rehman Gondal, and Hamza Sarfraz (June 2018) | Working Capital Management and Profitability                       | Mediterranean Journal of Basic and Applied Sciences (MJBAS) Volume 2, Issue 2, Pages 117-125, April-June 2018               |
+| 12        | M. Eswarareddy (Aug 2016)                           | An Empirical Study on Working Capital Management and Profitability    | INTERNATIONAL JOURNAL OF CURRENT ENGINEERING AND SCIENTIFIC RESEARCH (IJCESR)                                                 |
 
-2. **Fekadu Agmas Wassie (Mar 2021):**
-   - Title: *Working Capital Management and Its Impact on Firms’ Performance: An Empirical Analysis on Ethiopian Exporters*
-   - Source: [Link to the paper](https://doi.org/10.1155/2021/6681572)
-   - Published as an Open Access Volume in 2021.
 
-3. **Sonia Baños-Caballero, Pedro J García-Teruel, Pedro Martínez-Solano (Mar 2019):**
-   - Title: *Net Operating Working Capital and Firm Value: A Cross-Country Analysis*
-   - Source: [Link to the paper](https://doi.org/10.1177/2340944420941464)
-   - Published in Vol 23, Issue 3, 2020.
-
-4. **Najib H.S. Farhan, Fozi Ali Belhaj, Waleed M. Al-ahdal, Faozi A. Almaqtari (Apr 2021):**
-   - Title: *An Analysis of Working Capital Management in India: An Urgent Need to Refocus*
-   - Source: [Link to the paper](https://doi.org/10.1080/23311975.2021.1924930)
-   - Article ID: 1924930 | Received 07 Oct 2020, Accepted 23 Apr 2021, Published online: 06 Jun 2021.
-
-5. **Amer Morshed (Dec 2020):**
-   - Title: *Role of Working Capital Management in Profitability considering the connection between accounting and finance*
-   - Source: [Link to the paper](https://www.emerald.com/insight/2443-4175.htm)
-   - DOI: 10.1108/ajar-04-2020-0023.
-
-6. **Juan Peng and Zhili Zhou (Jan 2020):**
-   - Title: *Working Capital Optimization in a Supply Chain Perspective*
-   - Source: European Journal of Operational Research, 2019, vol. 277, issue 3, 846-856.
-
-7. **Gaurav Singh Chauhan (June 2019):**
-   - Title: *Are Working Capital Decisions Truly Short-Term in Nature?*
-   - Source: [Link to the paper](https://doi.org/10.1016/j.jbusres.2019.02.032)
-   - Published in the Journal of Business Research, Volume 99, June 2019, Pages 238-253.
-
-8. **Muthusamy, D., & Sathish Kumar, M. (2018):**
-   - Title: *Working Capital Management in Ancillary’s of BHEL, Tiruchirappalli, Tamil Nadu*
-   - Source: Asian Journal of Managerial Science, 7(3), 14–17.
-   - DOI: 10.51983/ajms-2018.7.3.1349.
-
-9. **Pinku Paul (Sep 2018):**
-   - Title: *Analysis of the Effect of Working Capital Management on Profitability of the Firm: Evidence from Indian Steel Industry*
-   - Source: [Link to the paper](https://doi.org/10.1177/2319510X18812142)
-   - Published in Vol 14, Issue 1-2, 2018.
-
-10. **Rimsha Khalid, Tehreem Saif, Abdul Rehman Gondal, and Hamza Sarfraz (June 2018):**
-    - Title: *Working Capital Management and Profitability*
-    - Source: Mediterranean Journal of Basic and Applied Sciences (MJBAS) Volume 2, Issue 2, Pages 117-125, April-June 2018.
-
-11. **Tehreem Saif, Abdul Rehman Gondal, and Hamza Sarfraz (June 2018):**
-    - Title: *Working Capital Management and Profitability*
-    - Source: Mediterranean Journal of Basic and Applied Sciences (MJBAS) Volume 2, Issue 2, Pages 117-125, April-June 2018.
-
-12. **M. Eswarareddy (Aug 2016):**
-    - Title: *An Empirical Study on Working Capital Management and Profitability*
-    - Source: INTERNATIONAL JOURNAL OF CURRENT ENGINEERING AND SCIENTIFIC RESEARCH (IJCESR).
-    - ISSN (PRINT): 2393-8374, (ONLINE): 2394-0697, VOLUME-4, ISSUE-8, 2017.
 
 ## Bibliography
 
