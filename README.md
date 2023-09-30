@@ -9,7 +9,7 @@ This research delves into the critical realm of working capital management, spec
 Working capital, in essence, denotes the capital necessary for covering day-to-day expenses or short-term asset financing. It encompasses the investment a company makes in short-term assets like cash and marketable securities. Net current assets or working capital, calculated by subtracting current liabilities from current assets, is crucial for measuring operational and financial efficiency. Maintaining an adequate amount of cash and lines of credit is essential for a company's continuous business operations.
 
 Symbolically, it can be expressed as:
-\[ \text{Working capital} = \text{current assets} - \text{current liabilities} \]
+Working capital=current assets−current liabilities
 
 ## Current Assets:
 These are assets convertible into cash within one year or less, including cash, bank accounts, debtors, bill receivables, prepaid expenses, and outstanding incomes.
@@ -21,11 +21,11 @@ Liabilities payable within a year or less, such as creditors, outstanding bills,
 
 1. **Gross Working Capital:**
    The total investment in current assets.
-   \[ \text{Gross Working Capital} = \text{Total Current Assets} \]
+   Gross Working Capital=Total Current Assets
 
 2. **Net Working Capital:**
    The difference between current assets and current liabilities, with positive or negative results based on the comparison.
-   \[ \text{Net Working Capital} = \text{Current Assets} - \text{Current Liabilities} \]
+   Net Working Capital=Current Assets−Current Liabilities
 
 3. **Fixed Working Capital:**
    The minimum amount required for ongoing business activities.
