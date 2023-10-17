@@ -1,0 +1,57 @@
+@font-face {
+    font-family: head;
+    src: url(Heading-Now-Variable.ttf);
+}
+@font-face {
+    font-family: load;
+    src: url(MonumentExtended-Regular.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+#loader{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(202, 202, 202);
+    position: fixed;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#loader h1{
+    font-family: load;
+    font-size: 100px;
+
+}
+#page1{
+    height: 100vh;
+    width: 100%;
+}
+#page1 h1{
+    color: white;
+    font-size: 40vw;
+    font-family: head;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-stretch: 250%;
+    font-weight: 999;
+}
+
+#page2{
+    height: 100vh;
+    width: 100%;
+}
+
+#page3{
+    height: 100vh;
+    width: 100%;
+}
